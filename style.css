@@ -1,0 +1,61 @@
+.content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+    .navbar-brand {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+  }
+.navbar-collapse {
+    text-align: center;
+    font-size: 40px;
+  }
+
+  h2{
+    text-align: left;
+    border-bottom: lightgray;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding: 20px;
+  }
+#display {
+    width: 100%;
+    height: 200px;
+    text-align: inherit;
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 5px;
+}
+
+#generate{
+    background-color: red;
+    float: left;
+    margin-left: 20px;
+    color: white;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#copy{
+  background-color: silver;
+  float: right;
+  color: white;
+  margin-right: 20px;
+  border-radius: 30px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+body {
+  background-color: rgb(235, 235, 235);
+}
